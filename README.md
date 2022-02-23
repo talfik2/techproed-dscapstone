@@ -5,7 +5,8 @@ Source of this dataset is: https://www.kaggle.com/georgesaavedra/covid19-dataset
 
 * In this capstone project, I applied the following steps of EDA to the Our World in Data/COVID-19 dataset:
 
-1.Data Encoding
+
+1. Data Encoding
 
 2. PCA
 

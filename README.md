@@ -1,6 +1,6 @@
 
 # techproed-dscapstone
-In this repository, I've shared the projects I've created in my Data Scientist Role at TechProEducation 
+In this repository, I've shared the projects I've created in my Data Scientist Role at TechProEducation. You can reach each capstone project on a **different branch** representively. 
 
 1. SQLAlchemy
 

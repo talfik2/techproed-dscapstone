@@ -1,15 +1,3 @@
 
 # techproed-dscapstone
-In this repository, I've shared the projects I've created in my Data Scientist Role at TechProEducation 
-
-1. SQLAlchemy
-
-2. Numpy Capstone Project
-
-3. Pandas Capstone Project
-
-4. Tableau Capstone Project
-
-5. EDA Lecture
-
-6. EDA Capstone Project  
+In this project, I visualized the COVID-19 data with Tableau. During the visualization, I used map chart, line chart, bar chart, ban, and dashboard.

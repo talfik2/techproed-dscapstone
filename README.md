@@ -1,15 +1,3 @@
 
-# techproed-dscapstone
-In this repository, I've shared the projects I've created in my Data Scientist Role at TechProEducation 
-
-1. SQLAlchemy
-
-2. Numpy Capstone Project
-
-3. Pandas Capstone Project
-
-4. Tableau Capstone Project
-
-5. EDA Lecture
-
-6. EDA Capstone Project  
+# Data-Analysis-with-Python
+In this repository, I analysed NYPD School Safety Reports of 2015 and 2016 years. Since 1998, the New York City Police Department (NYPD) has been tasked with the collection and maintenance of crime data for incidents that occur in New York City public schools. For presentation purposes, each incident has been classified in one of three categories. These categories are: Major Crimes: This category is consistent with those regularly and publicly reported by the NYPD. It includes the most serious personal and property crimes. The property crimes are burglary, grand larceny and grand larceny auto. The crimes against persons are murder, rape, robbery and felony assault. Other Crimes: This category is composed of many crimes and incidents that range in severity. It includes reports of incidents such as arson/explosion, misdemeanor assault, criminal possession or sale of a controlled substance, sale of marijuana, criminal mischief, petit larceny, reckless endangerment, sex offenses (not including rape, which is included in the Major Crimes), and weapons possession. Non-Criminal Incidents: This category includes actions which are not classified as crimes but are nevertheless disruptive to the school environment. It includes disorderly conduct, harassment, loitering, possession of marijuana, dangerous instruments and trespass. NYPD and NYC Department of Education are stored this crime data as annualy school safety reports and published on https://www.data.gov/ . In this Data Analysis exercise, I concatenated the School Safety Reports of the 2015 and 2016, and I analysed this data.
